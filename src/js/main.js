@@ -38,15 +38,15 @@ const myString = "Marek";
  * @return {number} The sum of a and b.
  */
 function sum(a, b) {
-    return a + b;
+  return a + b;
 }
 
 for (const myValue of myArray) {
-    console.log(myValue);
+  console.log(myValue);
 }
 
 for (let i = 0; i < 10; i++) {
-    console.log(i);
+  console.log(i);
 }
 
 console.log(sum(numberOne, numberTwo));
@@ -61,7 +61,7 @@ console.log(myArray[0]);
  * @return {boolean} Returns true if the two values are equal, otherwise false.
  */
 function myFunction(a, b) {
-    return a === b;
+  return a === b;
 }
 
-console.log(myFunction(10, 10))
+console.log(myFunction(10, 10));

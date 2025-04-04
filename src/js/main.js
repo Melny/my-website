@@ -1,5 +1,3 @@
-// This file is intentionally left blank.
-
 console.log("Hello World");
 
 /**
@@ -7,6 +5,8 @@ console.log("Hello World");
  * This variable is intended to serve as an initial or default number in
  * operations or calculations requiring a predefined constant value.
  */
+console.log("Hello");
+
 const numberOne = 12;
 /**
  * Represents the numerical value 43.
@@ -24,11 +24,6 @@ const numberTwo = 43;
  * @type {number[]}
  */
 const myArray = [10, 20, 40];
-/**
- * A string variable that stores the name "Marek".
- * Represents a specific text value used for identification or display purposes.
- */
-const myString = "Marek";
 
 /**
  * Calculates the sum of two numbers.
@@ -65,3 +60,4 @@ function myFunction(a, b) {
 }
 
 console.log(myFunction(10, 10));
+console.log(0.1 + 0.2);

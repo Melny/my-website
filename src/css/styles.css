@@ -1,6 +1,5 @@
 /* This file is intentionally left blank. */
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: grid;
+  place-items: center;
 }

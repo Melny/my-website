@@ -1,0 +1,30 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "This project is a simple website that demonstrates the use of HTML, CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melny/my-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melny/my-website/issues"
+  },
+  "homepage": "https://github.com/Melny/my-website#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "grunt": "^1.6.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^5.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
